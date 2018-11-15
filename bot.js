@@ -30,10 +30,10 @@ client.user.setGame(`صيآنة`,"http://twitch.tv/S-F")
 
 
 client.on('ready', async() => {
-var server = "508621966618656769"; 
-var channel = "508641168406347792";
+var server = "504985675851104256"; 
+var channel = "510746838471802881";
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('**Mdax Was HeRe . , Mdax Was **')
+    client.guilds.get(server).channels.get(channel).send('**F0R ; Thunder&ReD GhOsT , F0R ; Thunder&ReD GhOsT , F0R ; Thunder&ReD GhOsT , F0R ; Thunder&ReD GhOsT , F0R ; Thunder&ReD GhOsT , F0R ; Thunder&ReD GhOsT , F0R ; Thunder&ReD GhOsT ,F0R ; Thunder&ReD GhOsT , F0R ; Thunder&ReD GhOsT , F0R ; Thunder&ReD GhOsT , F0R ; Thunder&ReD GhOsT , F0R ; Thunder&ReD GhOsT , F0R ; Thunder&ReD GhOsT , F0R ; Thunder&ReD GhOsT , F0R ; Thunder&ReD GhOsT , F0R ; Thunder&ReD GhOsT ,F0R ; Thunder&ReD GhOsT , F0R ; Thunder&ReD GhOsT , F0R ; Thunder&ReD GhOsT , F0R ; Thunder&ReD GhOsT **')
     },305);
 })
 
